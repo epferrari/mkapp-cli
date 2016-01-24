@@ -1,0 +1,22 @@
+{
+  "name": "mkapp-cli",
+  "version": "1.0.0",
+  "description": "Global command line interface for mkapp package",
+  "bin": {
+    "mkapp": "./bin/mkapp.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mkapp",
+    "react",
+    "condux",
+    "cli"
+  ],
+  "author": "Ethan Ferrari <ethan@ethanferrari.com> (https://github.com/epferrari)",
+  "license": "MIT",
+  "dependencies": {
+    "resolve": "^1.1.7"
+  }
+}
